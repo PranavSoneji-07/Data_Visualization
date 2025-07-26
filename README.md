@@ -1,5 +1,4 @@
-# 📊 Data Visualization & Storytelling - Internship Task 2
-
+# 📊 Data Visualization & Storytelling
 
 ## 🎯 Objective
 
