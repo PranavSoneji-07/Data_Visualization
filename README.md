@@ -66,4 +66,3 @@
 - **Technology** had the highest overall profit and sales growth.
 - **North America and APAC** markets dominated in quantity sold.
 - **High and Critical priority orders** had lower total sales, indicating opportunity for process improvement.
-- 
